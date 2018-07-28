@@ -63,7 +63,6 @@ mvn package
 java -jar target/person-1.0.0.jar
 ```
 
-<p align="center"><img width=95% src="https://github.com/gmartinezramirez/Spring-API-REST-Person-CRUD/blob/master/docs/mvn-package.gif"></p>
 
 + Also, you can run the app without packaging it using:
 
@@ -77,7 +76,7 @@ mvn spring-boot:run
 ./run.sh
 ```
 
-<p align="center"><img width=95% src="https://github.com/gmartinezramirez/Spring-API-REST-Person-CRUD/blob/master/docs/mvn-spring-bootrun.gif"></p>
+
 
 
 + The app will start running at <http://localhost:8080>.
