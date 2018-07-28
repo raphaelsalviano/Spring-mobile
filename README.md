@@ -99,7 +99,7 @@ mvn spring-boot:run
 3. Retrieving a single Person using GET /api/v1.0/persons/{personId} API
 + localhost:8080/api/persons/1
 
-<p align="center"><img width=95% src="https://github.com/gmartinezramirez/Spring-API-REST-Person-CRUD/blob/master/docs/03-GET.png"></p>
+
 
 4. Updating a Person using PUT /api/v1.0/persons/{personId} API
 + localhost:8080/api/persons/1
