@@ -10,9 +10,10 @@ import java.util.Date;
 import javax.validation.constraints.NotBlank;
 
 /**
+ * 
+ * @author rodrigo.fujioka
+ *
  */
-
-// TODO (gmartinezramirez): create a interface for this.
 @Entity
 @Table(name = "persons")
 @EntityListeners(AuditingEntityListener.class)
